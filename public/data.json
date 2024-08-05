@@ -1,0 +1,8 @@
+[
+    {"name":"Player1","team":"Team1","credits":10},
+    {"name":"Player2","team":"Team1","credits":9},
+    {"name":"Player3","team":"Team2","credits":8},
+    {"name":"Player4","team":"Team1","credits":9},
+    {"name":"Player5","team":"Team2","credits":10}
+  ]
+  

@@ -1,0 +1,21 @@
+.fixed-element {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 10;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .scroll-container {
+    margin-top: 100px; /* Space for the fixed element */
+  }
+  
+  .scroll-section {
+    height: 100vh;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
